@@ -1,0 +1,19 @@
+# Site settings
+title: Lari Hoppula
+email: lari@hoppula.com
+description: "HTML5, JavaScript and other web stuff"
+baseurl: ""
+url: "http://lari.hoppula.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+timezone: Europe/Helsinki
+
+username: hoppula
+
+analytics:
+  provider: google
+  google:
+    tracking_id: "UA-51783705-1"
